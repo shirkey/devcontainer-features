@@ -13,7 +13,7 @@
                 ]
             },
             "extensions": [
-                "mads-hartmann.bash-ide-vscode"
+                "vscode-azurestaticwebapps"
             ]
         }
     },
